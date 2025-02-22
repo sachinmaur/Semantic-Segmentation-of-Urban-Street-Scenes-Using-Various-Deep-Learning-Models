@@ -5,9 +5,9 @@ Pretrained SegFormer and SegFormer  for CityScapes dataset.
 ## Quick Start 
 
 ### 1. Available Architectures
-| DeepLabV3    |  DeepLabV3+        |          |
+|SegFormer   |   SegFormer      | SegFormer with Few-Shot Learning   |
 | :---: | :---:     |
-|deeplabv3_mobilenet|deeplabv3plus_mobilenet ||
+
 
 
 
