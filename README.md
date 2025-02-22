@@ -9,13 +9,6 @@ Pretrained SegFormer and SegFormer  for CityScapes dataset.
 | :---: | :---:     |
 
 
-
-
-please refer to [network/modeling.py](https://github.com/VainF/DeepLabV3Plus-Pytorch/blob/master/network/modeling.py) for all model entries.
-
-Download pretrained models: [Dropbox](https://www.dropbox.com/sh/w3z9z8lqpi8b2w7/AAB0vkl4F5vy6HdIhmRCTKHSa?dl=0)
-
-
 ### 2. Visualize segmentation outputs:
 ```python
 outputs = model(images)
