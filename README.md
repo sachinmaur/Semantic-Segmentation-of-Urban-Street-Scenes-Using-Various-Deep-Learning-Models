@@ -6,7 +6,7 @@ Pretrained SegFormer and SegFormer  for CityScapes dataset.
 
 ### 1. Available Architectures
 |SegFormer   |Segmenter     | SegFormer with Few-Shot Learning   |
-| :---: | :---:     |
+
 
 
 
