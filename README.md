@@ -1,11 +1,11 @@
 # SegFormer | SegFormer-Pytorch
 
-Pretrained SegFormer and SegFormer  for CityScapes dataset.
-
+This project implements semantic segmentation of urban street scenes using SegFormer, SegFormer with Few-Shot Learning, and Segmenter. The models are trained on the CityScapes dataset, a large-scale benchmark dataset for autonomous driving and urban scene understanding. The goal is to classify each pixel into predefined categories such as roads, vehicles, pedestrians, and buildings.
 ## Quick Start 
 
 ### 1. Available Architectures
 |SegFormer   |Segmenter     | SegFormer with Few-Shot Learning   |
+
 
 
 
