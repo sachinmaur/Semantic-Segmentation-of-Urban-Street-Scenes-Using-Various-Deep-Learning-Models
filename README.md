@@ -1,11 +1,11 @@
-# DeepLabv3_MobileNet-Pytorch
+# SegFormer | SegFormer-Pytorch
 
-Pretrained DeepLabv3 for Kitto Road Datset.
+Pretrained SegFormer and SegFormer  for CityScapes dataset.
 
 ## Quick Start 
 
 ### 1. Available Architectures
-| DeepLabV3    |  DeepLabV3+        |
+| DeepLabV3    |  DeepLabV3+        |          |
 | :---: | :---:     |
 |deeplabv3_mobilenet|deeplabv3plus_mobilenet ||
 
